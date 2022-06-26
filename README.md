@@ -9,6 +9,8 @@ JAVA CLASS DİAGRAM AND DEPENDENCY{}
 ![download](https://user-images.githubusercontent.com/70372233/175523162-ff4d3851-c887-47a8-ac57-4f0a9a1f13d1.png)
 <h4 align="left">JAVA MİMARİSİ</h4>
 ![0_X9H_1QON1SKYMh8M](https://user-images.githubusercontent.com/70372233/175523301-a9641d75-cf1a-40e4-a30f-1f7f11ecc02b.png)
+
+
 CLASS LOADER:.class uzantılı bayt kodunu okur ve Method Area kısmına kaydeder
 METHOD AREA:.class uzantılı bayt kodun sınıf bilgilerini tutar
 PC Registers:HAngi proseslerin işlendiğini ve işleneceğini izler

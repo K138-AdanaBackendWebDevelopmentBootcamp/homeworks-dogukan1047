@@ -1,4 +1,6 @@
-# homeworks-dogukan1047
+<<<<<<< HEAD
+=======
+
 week1-homework-dogukan1047 created by GitHub Classroom
 # homeworks-dogukan1047
  -----------------------------------------------------------------------------------------------------------------------------------------
@@ -127,3 +129,5 @@ Mesela türettiğimiz sınıftaki yaptığımız değişiklik ana sınıfımız�
 ![Ekran görüntüsü 2022-07-02 204147](https://user-images.githubusercontent.com/70372233/177010851-b11396a2-407c-4217-b3c8-45c7dabe6d4b.png)
 
 
+
+>>>>>>> 0ea0a5cf06545c6b34b524c538e9d7fdff8355b2

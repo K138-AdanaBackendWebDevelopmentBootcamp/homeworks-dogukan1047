@@ -1,0 +1,30 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+             http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
+             version="2.1">
+<!--Multiple peristence can be created-->
+    <persistence-unit name="mmysqlPU" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>com.proje.model.Student</class> <!--We defined our classes -->
+        <class>com.proje.model.Courses</class>
+        <class>com.proje.model.Instructors</class>
+        <class>com.proje.model.ParmanentResearcher</class>
+        <class>com.proje.model.VisitingInstructor</class>
+        <properties>
+            <property name="javax.persistence.jdbc.url"
+                      value="jdbc:mysql://localhost:3306/hibernate12?characterEncoding=UTF8"/>
+             <!--Name and password to connect to the database-->
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="104725"/>
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5Dialect"/>
+           <!--If it is opened in update mode, it will only update, but if it is opened in create mode, it will reproduce every time.-->
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+            <property name="current_session_context_class" value="thread"/>
+            <property name="hibernate.show_sql" value="true"/>
+
+            <property name="hibernate.format_sql" value="true"/>
+        </properties>
+    </persistence-unit>
+</persistence>

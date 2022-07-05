@@ -6,6 +6,7 @@ public class Instructor extends Student {
 
     }
     public Instructor(String coursesName,String phoneNumber,String address){
+        super();
         this.coursesName=coursesName;
         this.address=address;
         this.phoneNumber=phoneNumber;

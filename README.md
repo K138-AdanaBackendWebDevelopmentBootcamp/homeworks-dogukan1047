@@ -1,6 +1,4 @@
-# homeworks-dogukan1047
-week1-homework-dogukan1047 created by GitHub Classroom
-# homeworks-dogukan1047
+
 week1-homework-dogukan1047 created by GitHub Classroom
 # homeworks-dogukan1047
  -----------------------------------------------------------------------------------------------------------------------------------------

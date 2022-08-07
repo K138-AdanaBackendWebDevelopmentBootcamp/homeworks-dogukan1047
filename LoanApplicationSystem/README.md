@@ -63,7 +63,9 @@ API geliştiricileri, birkaç farklı mimariyi kullanarak API'ler tasarlayabilir
 
 </p>
 
-![](../../../AppData/Local/Temp/rest-api.jpg)
+![api-web-service-grafik](https://user-images.githubusercontent.com/70372233/183297152-abaddbf4-a888-4707-a650-5102ce58ad64.jpg)
+
+
 
 ## RESTful API'lerin avantajları nelerdir?
 <p>
@@ -131,12 +133,15 @@ Sunucu, her bir kaynağı benzersiz kaynak tanımlayıcılarla tanımlar. REST h
 
 </p>
 
-![](../../../AppData/Local/Temp/RestApi.png)
+![download](https://user-images.githubusercontent.com/70372233/183297371-d04411ad-a0b3-493a-9601-4a535dcef8c8.png)
+
+
+
 
 <br>
 
-![](../../../AppData/Local/Temp/rest-api.png)
 
+![images](https://user-images.githubusercontent.com/70372233/183297326-891963d4-257c-49ca-86ea-ee40048522b3.png)
 
 ## HTTP STATUS CODES
 
@@ -149,11 +154,20 @@ HTTP status codes<br>
 `4XX` ile başlayan kodlar ise client(istemci) hatası kodlarıdır.<br>
 `5XX`ile başlayan kodlar ise server(sunucu) hatası kodlarıdır.<br>
 
-![](../../../AppData/Local/Temp/1_AmjZWr-NT2JzxU49pUjYtw.jpg)
+
+![download](https://user-images.githubusercontent.com/70372233/183297428-feb16f7b-099f-4dd3-b6a9-0b58c822292c.jpg)
+
+
+
+
 </p>
 
 
 ## Rest Vs SOAP
+
+
+
+![images](https://user-images.githubusercontent.com/70372233/183297457-077e8ec9-22e0-4465-adbb-6340101c2c36.jpg)
 
 Bu kadar REST anlattıktan sonra insanın aklına SOAP mı? REST mi? sorusu geliyor elbette :)
 
@@ -178,4 +192,4 @@ Bana sorarsanız bir Web Servis tasarlarken önce REST’i deneyin, (yapamadığ
 
   En genel manada ikisinin de avantajları bunlar. Benim görüşüm enterprise uygulamalarda SOAP daha kolay bir çözüm olabiliyor. Onun haricinde dediğim gibi SOAP ile yapıpta REST ile yapamayacağınız hiç birşey yok. O yüzden önce REST’i deneyin her zaman.
 
-![](../../../AppData/Local/Temp/download.jpg)
+![download](https://user-images.githubusercontent.com/70372233/183297475-0dad350d-8b7b-44ca-bdaa-fb389c285b48.jpg)

@@ -1,6 +1,5 @@
 package com.example.loanapplicationsystem.contoller;
 
-import com.example.loanapplicationsystem.Dto.UserDto;
 import com.example.loanapplicationsystem.model.LimitCalculation;
 import com.example.loanapplicationsystem.service.LimitCalculationServices;
 import lombok.extern.slf4j.Slf4j;

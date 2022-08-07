@@ -1,6 +1,5 @@
 package com.example.loanapplicationsystem.service.Imp;
 
-import com.example.loanapplicationsystem.Dto.UserDto;
 import com.example.loanapplicationsystem.model.LimitCalculation;
 import com.example.loanapplicationsystem.model.User;
 import com.example.loanapplicationsystem.reporsitory.LimitCalculationReporsitory;
@@ -12,7 +11,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.web.bind.annotation.PostMapping;
 
 import java.util.Optional;
 @Transactional

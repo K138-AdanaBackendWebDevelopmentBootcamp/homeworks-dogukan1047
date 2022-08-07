@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d22b943-4d77-4237-90d2-f61558ef7981" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/LimitCalculationContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/LimitCalculationContoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/UserContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/UserContoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/service/Imp/LimitCalculationServicesImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/service/Imp/LimitCalculationServicesImp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +92,9 @@
       <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\Week_3\src\main\java\com\example\week_3\contoller" />
       <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\Week_3\src\main\java\com\example\week_3" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\LoanApplicationSystem\İmage" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -144,7 +147,7 @@
       <workItem from="1659368773680" duration="7160000" />
       <workItem from="1659443730686" duration="12275000" />
       <workItem from="1659549936426" duration="645000" />
-      <workItem from="1659870020573" duration="7862000" />
+      <workItem from="1659870020573" duration="11390000" />
     </task>
     <servers />
   </component>

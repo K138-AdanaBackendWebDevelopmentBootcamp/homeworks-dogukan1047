@@ -8,15 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Week_3" />
+        <module name="LoanApplicationSystem" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="LoanApplicationSystem" target="1.8" />
       <module name="Week_3" target="1.8" />
       <module name="Week_3_0" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="LoanApplicationSystem" options="-parameters" />
       <module name="Week_3" options="-parameters" />
       <module name="Week_3_0" options="-parameters" />
     </option>

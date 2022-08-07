@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KodluyoruzBootcampWork.iml" filepath="$PROJECT_DIR$/KodluyoruzBootcampWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoanApplicationSystem/LoanApplicationSystem.iml" filepath="$PROJECT_DIR$/LoanApplicationSystem/LoanApplicationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1.0/Week1.0.iml" filepath="$PROJECT_DIR$/Week1.0/Week1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2.0/Week2.0.iml" filepath="$PROJECT_DIR$/Week2.0/Week2.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_3/Week_3.iml" filepath="$PROJECT_DIR$/Week_3/Week_3.iml" />

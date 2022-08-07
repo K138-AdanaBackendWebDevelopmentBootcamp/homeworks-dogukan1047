@@ -1,11 +1,5 @@
 # homeworks-dogukan1047
 week1-homework-dogukan1047 created by GitHub Classroom
-
-<<<<<<< HEAD
-=======
-
-week1-homework-dogukan1047 created by GitHub Classroom
-# homeworks-dogukan1047
  -----------------------------------------------------------------------------------------------------------------------------------------
 ![Ekran görüntüsü 2022-06-24 135605](https://user-images.githubusercontent.com/70372233/175521142-4a2d49c3-e586-4dab-8c0e-91f6b79fd369.png)
 -------------------------------------------------------------------------------------------------------------------------------------------
